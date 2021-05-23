@@ -1,4 +1,4 @@
-# Disboard
+п»ї# Disboard
 Disaster Dashboard by T-Mobis for Energomach@leadersofdigital, 2021
 
 ## Build frontend
@@ -20,4 +20,4 @@ Disaster Dashboard by T-Mobis for Energomach@leadersofdigital, 2021
 ### admin_level_4.json
 
 https://mydata.biz/ru/catalog/databases/borders_ru 
-File name: "Адм-территориальные границы РФ в формате GeoJSON.zip"
+File name: "РђРґРј-С‚РµСЂСЂРёС‚РѕСЂРёР°Р»СЊРЅС‹Рµ РіСЂР°РЅРёС†С‹ Р Р¤ РІ С„РѕСЂРјР°С‚Рµ GeoJSON.zip"
