@@ -1,0 +1,21 @@
+{
+  "name": "disboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build --public-url . index.html",
+    "postbuild": "xcopy data dist\\data /E /I"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "ol": "^6.5.0"
+  }
+}
