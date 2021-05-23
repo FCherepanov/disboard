@@ -3,7 +3,7 @@ Disaster Dashboard by T-Mobis for Energomach@leadersofdigital, 2021
 
 ## Build frontend
 1. cd front
-2. npm instal && npm run build
+2. npm install && npm run build
 
 ## Run frontend
 1. npm start
